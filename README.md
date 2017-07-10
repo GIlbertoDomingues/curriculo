@@ -1,9 +1,7 @@
 # Gilberto Domingues
 Curitiba/PR
 
----
-
-####Desenvolvedor Front End
+Desenvolvedor Front End
 
 **Telefone:** (41) 9.8720-5647 / 9.9162-4608
 
@@ -15,8 +13,6 @@ Curitiba/PR
 
 **Skype:** gdcsolucoes
 
----
-
 ## Competências
 
 **Design:**
@@ -24,7 +20,6 @@ Curitiba/PR
 * User Experience
 * Atomic Design
 * Photoshop
-
 
 **FrontEnd:**
 * HTML5/CSS3
@@ -36,11 +31,9 @@ Curitiba/PR
 * jQuery
 * AngularJS
 
-
 **Banco de Dados:**
 * MySQL
 * MongoDB
-
 
 **Outros:**
 * Fabric (Para automação de deploy)
@@ -54,16 +47,12 @@ Curitiba/PR
 **Outros conhecimentos:**
 * Por ter trabalhado alguns anos como designer, possuo conhecimento em Photoshop e Corel Draw.
 
----
-
 ## Informações adicionais
 
 * Facilidade e muito interesse em aprender
 * Criatividade
 * Determinação e responsabilidade
 * Facilidade para trabalhar em grupo
-
----
 
 ## Experência Profissional
 
@@ -72,14 +61,11 @@ Curitiba/PR
 
 * 2015 / 2017 - **eWave - *(Emprego Atual)* **
 
->Cargo: Desenvolvedor Front End.
->Principais Atividades: Foi responsável pela implementação de metodologia de Atomic Design, onde junto com a equipe de desenvolvimento conseguimos criar mais de 300 páginas em apenas 3 meses de tombamento de GVT para Vivo. Também fui promovido a líder técnico da equipe de Front End onde tiver 5 recursos como time e isso me ajudou a aprimorar meus conhecimento de gestão de pessoas. Depois de um tempo começamos a implementar o Scrum como metodologia ágil e foi indicado pela equipe para ser o Scrum Master e nesse período aprendi muito sobre processos e organização.
->Projeto Nova Taxonomia: Um dos responsáveis pela montagem das páginas de b2b (pequenas e médias empresas) na qual o layout foi todo reformulado.
->Trabalhei com HTML, Sass como pré-processador de CSS, AngularJS como framework de JS e Git como versionamento de código.
->Trabalhei alocado na Telefônica.
-
-
----
+**Cargo: Desenvolvedor Front End.**
+Principais Atividades: Foi responsável pela implementação de metodologia de Atomic Design, onde junto com a equipe de desenvolvimento conseguimos criar mais de 300 páginas em apenas 3 meses de tombamento de GVT para Vivo. Também fui promovido a líder técnico da equipe de Front End onde tiver 5 recursos como time e isso me ajudou a aprimorar meus conhecimento de gestão de pessoas. Depois de um tempo começamos a implementar o Scrum como metodologia ágil e foi indicado pela equipe para ser o Scrum Master e nesse período aprendi muito sobre processos e organização.
+Projeto Nova Taxonomia: Um dos responsáveis pela montagem das páginas de b2b (pequenas e médias empresas) na qual o layout foi todo reformulado.
+Trabalhei com HTML, Sass como pré-processador de CSS, AngularJS como framework de JS e Git como versionamento de código.
+Trabalhei alocado na Telefônica.
 
 ## Formação
 
