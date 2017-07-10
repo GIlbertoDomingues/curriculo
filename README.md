@@ -75,7 +75,7 @@ Comecei como web designer junior, minha função era desenvolver web sites para 
 ## Formação
 
 * **Ensino Médio Completo** - Colégio Estatual Leôncio Correia.
-* **Curso** - Curso React.js Ninja - React Completo- udemy - Cursando.
+* **Curso** - Curso React.js Ninja - React Completo- udemy - *(Cursando)*.
 * **Curso** - Formação Total em Scrum®- udemy.
 * **Curso** - Mongo, Express, Angular e Node - udemy.
 * **Curso** - Git e Github - udemy.
