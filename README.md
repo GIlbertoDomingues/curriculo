@@ -84,3 +84,5 @@ Comecei como web designer junior, minha função era desenvolver web sites para 
 * **Curso** - UX com foco no Design de Interação - Aldeia Coworking.
 * **Curso** – Arquitetura da Informação - Aldeia Coworking.
 * **Curso** – Design de Interfaces para Dispositivos Móveis  - Aldeia Coworking.
+
+* **Inglês** - intermediário 
