@@ -31,6 +31,12 @@ Desenvolvedor Front End
 * jQuery
 * AngularJS
 
+**Back End:**
+* PHP
+* NodeJS
+* Apache
+* Express
+
 **Banco de Dados:**
 * MySQL
 * MongoDB
