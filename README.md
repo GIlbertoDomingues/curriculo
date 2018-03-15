@@ -57,7 +57,11 @@ Desenvolvedor Front End
 
 ## Experência Profissional
 
-* 2015 / 2017 - **eWave - *(Emprego Atual)* **  
+* Atual - **Hero99**  
+**Cargo: Desenvolvedor Front End.**  
+Principais Atividades: Trabalho em diversos projetos atuando como Front End.
+
+* 2015 / 2017 - **eWave**  
 **Cargo: Desenvolvedor Front End.**  
 Principais Atividades: Foi responsável pela implementação de metodologia de Atomic Design, onde junto com a equipe de desenvolvimento conseguimos criar mais de 300 páginas em apenas 3 meses de tombamento de GVT para Vivo. Também fui promovido a líder técnico da equipe de Front End onde tiver 5 recursos como time e isso me ajudou a aprimorar meus conhecimento de gestão de pessoas. Depois de um tempo começamos a implementar o Scrum como metodologia ágil e foi indicado pela equipe para ser o Scrum Master e nesse período aprendi muito sobre processos e organização.
 Projeto Nova Taxonomia: Um dos responsáveis pela montagem das páginas de b2b (pequenas e médias empresas) na qual o layout foi todo reformulado.
